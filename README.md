@@ -1,7 +1,7 @@
 # Project #3: SQL [General]
 [![Python application test with Github Actions](https://github.com/nogibjj/Xiaoquan_Liu_Project3/actions/workflows/main.yml/badge.svg)](https://github.com/nogibjj/Xiaoquan_Liu_Project3/actions/workflows/main.yml)
 
-Welcome! This is my second project for the Data Engineering System class at Duke. 
+Welcome! This is my third project for the Data Engineering System class at Duke. 
 
 ### 1. Created a Database, Connected to it, Created a Table, and Inseted Data into that Table
 
