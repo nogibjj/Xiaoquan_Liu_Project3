@@ -41,13 +41,13 @@ def price():
     """
     click.echo('Italian')
 
-@click.command(name="Weight(gramms)")
+@click.command(name="Weight")
 def weight():
     """
     What coffee type has the highest/lowest weight?
     """
-    click.echo('Top three heaviest coffee type are **Mocha(instant coffee), Caramel,macchiat(iced coffee), and Instant coffee,arabica,dark roast** with weight 2381.4, 1814.4, and 1134.0 gramms.')
-    click.echo('Top four lightiest coffee type are **Colombian(instant coffee), Mocha(iced coffee,latte), Instant coffee(light roast), and Espresso(instant coffee,dark roast)** with weight 99.2, 99.2, 189.9 and 199.9 gramms.')
+    click.echo('Top three heaviest coffee type are Mocha(instant coffee), Caramel,macchiat(iced coffee), and Instant coffee,arabica,dark roast with weight 2381.4, 1814.4, and 1134.0 gramms.')
+    click.echo('Top four lightiest coffee type are Colombian(instant coffee), Mocha(iced coffee,latte), Instant coffee(light roast), and Espresso(instant coffee,dark roast) with weight 99.2, 99.2, 189.9 and 199.9 gramms.')
 
 
 get_group.add_command(coffee_type)
