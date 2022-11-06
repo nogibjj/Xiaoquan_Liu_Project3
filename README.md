@@ -5,7 +5,7 @@ Welcome! This is my third project for the Data Engineering System class at Duke.
 
 ### 1. Created a Database, Connected to it, Created a Table, and Inseted Data into that Table
 
-For this project, I generated a script that connected to a database called `Walmart_Coffee_Listings` , which I created myself using sqlite3 packages in python. In the database, I created a table called `Walmart_Coffee` and inserted the Walmart coffee listings data that I found in Kaggle into that table.
+For this project, I generated a script that connected to a database called `Walmart_Coffee_Listings.db` , which I created myself using sqlite3 packages in python. In the database, I created a table called `Walmart_Coffee` and inserted the Walmart coffee listings data that I found in Kaggle into that table.
 
 I then defined some questions about coffee at Walmart and used `SQL` queries to find answers to those questions.
 
